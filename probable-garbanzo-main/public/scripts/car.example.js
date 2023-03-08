@@ -43,7 +43,7 @@ class Car {
 
   render() {
     return `
-      <div>id: <b>${this.id}</b></p>
+      <p>id: <b>${this.id}</b></p>
       <p>plate: <b>${this.plate}</b></p>
       <p>manufacture: <b>${this.manufacture}</b></p>
       <p>model: <b>${this.model}</b></p>
